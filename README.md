@@ -1,0 +1,2 @@
+# gitIdea
+idea access github
